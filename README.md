@@ -12,3 +12,9 @@ HTTP is used for client-server communication. The URL is used to locate a server
 [*screenshots*](https://github.com/OlStani/kottans-frontend/tree/main/task_git_collaboration)
 
 Learned how to use Git through bash, how to create, add and combine commits, how to send and receive information from a remote repository. I was most impressed by the flexibility of the GitHub system.
+
+## Intro to HTML and CSS
+[*screenshots*](https://github.com/OlStani/kottans-frontend/tree/main/task_html_css_intro)
+
+
+I have already learned a bit of html and css and this was a good opportunity to remember the basics.
