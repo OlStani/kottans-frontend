@@ -18,3 +18,13 @@ Learned how to use Git through bash, how to create, add and combine commits, how
 
 
 I have already learned a bit of html and css and this was a good opportunity to remember the basics.
+
+## Responsive Web Design
+[*screenshots*](https://github.com/OlStani/kottans-frontend/tree/main/task_responsive_web_design)
+
+
+The new thing is that you can add the minimum and maximum size of the section to the grid.
+
+It was surprising to change the order of elements. 
+
+Grid and Flex allow you to place elements on the page in almost any way, so I will use most of the features.
