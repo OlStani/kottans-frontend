@@ -28,3 +28,9 @@ The new thing is that you can add the minimum and maximum size of the section to
 It was surprising to change the order of elements. 
 
 Grid and Flex allow you to place elements on the page in almost any way, so I will use most of the features.
+
+## JS Basics
+[*screenshots*](https://github.com/OlStani/kottans-frontend/tree/main/task_js_basics)
+
+In this task, I learned to manipulate objects and arrays. I liked the methods of sorting arrays the most. I read about regular expressions for the first time. I think that I will use most of the methods in practice.
+
