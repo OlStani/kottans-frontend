@@ -34,3 +34,7 @@ Grid and Flex allow you to place elements on the page in almost any way, so I wi
 
 In this task, I learned to manipulate objects and arrays. I liked the methods of sorting arrays the most. I read about regular expressions for the first time. I think that I will use most of the methods in practice.
 
+## DOM
+[*screenshots*](https://github.com/OlStani/kottans-frontend/tree/main/task_js_dom)
+
+In this exercise, I learned how to access DOM tree objects and change them depending on events on the page. Learned to listen to events. I liked addEventListener the most for its ease of use. Template string was new.
